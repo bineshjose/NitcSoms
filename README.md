@@ -17,7 +17,7 @@ In this tutorial, we show how [Featuretools](https://www.featuretools.com) can b
 1. Clone the repo
 
     ```
-    git clone https://github.com/Featuretools/predict-loan-repayment.git
+    git clone https://github.com/bineshjose/NitcSoms
     ```
 
 2. Install the requirements
